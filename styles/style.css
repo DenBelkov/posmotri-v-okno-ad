@@ -218,3 +218,7 @@ ol {
 .content__accent {
   color: #545050;
 }
+
+.visually-hidden {
+  display: none;
+}
